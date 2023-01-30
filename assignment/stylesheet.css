@@ -16,7 +16,12 @@ h3 {
     background-color: rgb(63, 168, 88);
 }
 
-
+.image-center {
+    text-align:center;
+    border-style: none;
+    border-color: none;
+    background-color: white;
+}
 
 div {
     text-align: center;
