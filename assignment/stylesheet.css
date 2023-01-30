@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: black;
+    background-color: gray;
+}
+
+h2 {
+    text-align: center;
+    color:brown;
+    background-color: rgb(63, 168, 88); 
+}
+
+h3 {
+    text-align: center;
+    color:brown;
+    background-color: rgb(63, 168, 88);
+}
+
+
+
+div {
+    border-style: solid;
+    border-color: blue;
+    background-color: gray;
+}
+
+img {
+    border-style: solid;
+    border-width: 10px;
+}
